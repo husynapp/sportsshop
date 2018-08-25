@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shop
+comment1.params=
+comment1.target=Shop()
+comment2.params=custMoney
+comment2.target=void\ addMoney(double)
+comment3.params=custMoney
+comment3.target=void\ refund(double)
+comment4.params=
+comment4.target=double\ showShopBalance()
+comment5.params=
+comment5.target=void\ resetBalance()
+numComments=6
